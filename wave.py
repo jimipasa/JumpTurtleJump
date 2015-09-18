@@ -28,8 +28,4 @@ onkey(start, "space")
 onkey(down,"Down")
 onkey(enter,"Return")
 listen()
-<<<<<<< HEAD
 exitonclick()
-=======
-exitonclick()
->>>>>>> origin/master
